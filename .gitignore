@@ -1,1 +1,49 @@
+# Ignore the config file containing API keys
+config.json
+
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+venv.bak/
+*.env
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore compiled libraries
+*.so
+*.dylib
+*.dll
+
+# Ignore OS-specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Ignore IDE-specific files
+# PyCharm
+.idea/
+*.iml
+
+# VSCode
+.vscode/
 
