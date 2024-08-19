@@ -1,0 +1,16 @@
+{
+  "books": [
+    {
+      "isbn": "9781234567897",  # Optional
+      "title": "Example Book Title 1",
+      "authors": ["John Doe"],
+      "publisher": "Example Publisher"
+    },
+    {
+      "title": "Another Book Title",
+      "authors": ["Jane Smith"],
+      "publisher": "Another Publisher"
+    }
+  ]
+}
+
