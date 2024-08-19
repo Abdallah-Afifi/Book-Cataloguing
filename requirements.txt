@@ -1,0 +1,9 @@
+Pillow==9.1.1
+opencv-python==4.5.5.64
+torch==1.11.0
+ultralytics==8.0.3
+zxing-cpp==1.2.4
+requests==2.27.1
+google-generativeai==0.1.0
+arabic-ocr==0.3.4
+python-dotenv==0.20.0
